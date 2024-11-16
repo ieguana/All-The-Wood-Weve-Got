@@ -29,7 +29,7 @@ public class WWGChestBlock extends ChestBlock {
 	}
 
 	@Override
-	public BlockEntity newBlockEntity(@NotNull BlockPos pos, @NotNull BlockState state) {
+	public @NotNull BlockEntity newBlockEntity(@NotNull BlockPos pos, @NotNull BlockState state) {
 		return blockEntityType.get().create(pos, state);
 	}
 }
