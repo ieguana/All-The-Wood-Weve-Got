@@ -1,3 +1,5 @@
+# 2.0.2
+
 # 2.0.1
 - Add Simplified Chinese Translations (Credits: Crown-Fairy)
 - Add Ukrainian Translations (Credits: unroman)
