@@ -1,4 +1,5 @@
 # 2.0.2
+- Add German Translations (Credits: ieguana)
 
 # 2.0.1
 - Add Simplified Chinese Translations (Credits: Crown-Fairy)
